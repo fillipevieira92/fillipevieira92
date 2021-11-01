@@ -15,3 +15,8 @@ I consider myself a **curious person**, who is always **looking for** new **know
 > - **CSS3**
 > - **JavaScript**
 > - **Adobe Illustrator**
+
+## 📇 Contact
+
+**Email:** [work.fillipevieira@gmail.com](work.fillipevieira@gmail.com)
+**LinkedIn:** [linkedin.com/in/fillipevieira92](www.linkedin.com/in/fillipevieira92)
