@@ -19,4 +19,4 @@ I consider myself a **curious person**, who is always **looking for** new **know
 ## 📇 Contact
 
 **Email:** work.fillipevieira@gmail.com
-**LinkedIn:** linkedin.com/in/fillipevieira92
+**LinkedIn:** www.linkedin.com/in/fillipevieira92
