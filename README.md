@@ -6,8 +6,8 @@ I consider myself a **curious person**, who is always **looking for** new **know
 
 <div align="center">
   <a href="https://github.com/fillipevieira92">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fillipevieira92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipevieira92&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fillipevieira92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipevieira92&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 # 🕹️ Skills
